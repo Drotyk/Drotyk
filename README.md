@@ -1,6 +1,6 @@
 # Hi there, I'm Drotyk! 
 
- **Computer Science Student** | 💻 **Aspiring Full-Stack Developer**
+ **Computer Science Student** |  **Aspiring Full-Stack Developer**
 
 Passionate about writing clean, maintainable code and building robust web applications from scratch. Always curious, eager to learn new technologies, and focus on solid architecture principles.
 
