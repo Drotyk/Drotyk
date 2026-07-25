@@ -39,9 +39,3 @@ A scalable, maintainable task management web application built with a focus on e
 - **Architecture:** Clean Architecture with distinct domain/data layers, Repository Pattern, and Dependency Injection for high testability and low coupling.
 - **Tech Stack:** React, TypeScript, Express.js, PostgreSQL, Docker.
 - **Links:** [Live Demo](#) | [Repository](#)
-
----
-
-##  GitHub Stats
-
-![Drotyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial)
