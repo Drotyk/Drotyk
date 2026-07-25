@@ -43,6 +43,6 @@ A scalable, maintainable task management web application built with a focus on e
 
 ## GitHub Stats
 
-![Drotyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drotyk&show_icons=true&theme=transparent)
+![Drotyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drotyk&show_icons=true&theme=radical)
 
 ---
