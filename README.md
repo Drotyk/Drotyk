@@ -23,18 +23,3 @@ Passionate about writing clean, maintainable code and building robust web applic
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Architecture & Concepts:**
-- Clean Architecture, Repository Pattern, Dependency Injection
-- SOLID Principles, RESTful API Design
-
----
-
-##  Featured Project
-
-###  Fullstack Task Manager
-A scalable, maintainable task management web application built with a focus on enterprise-level backend patterns.
-
-- **Key Features:** User authentication (JWT), task CRUD, filtering/sorting, role-based access control.
-- **Architecture:** Clean Architecture with distinct domain/data layers, Repository Pattern, and Dependency Injection for high testability and low coupling.
-- **Tech Stack:** React, TypeScript, Express.js, PostgreSQL, Docker.
